@@ -13,7 +13,7 @@
 - HTML
 - CSS
 - JavaScript
-
+Author--
 ### Some of the features of the website include:
 - A responsive design (soon)
 -  ~43 Games
